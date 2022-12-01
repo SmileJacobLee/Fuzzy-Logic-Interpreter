@@ -46,7 +46,7 @@ Given fuzzy sets and the membership degrees associated with those sets,the proce
 Consequently, the fuzzy result can be thought of as a fuzzy set. For instance, the results of using criteria designed to decide how much pressure to apply could be Decrease Pressure by 15%, Maintain Pressure by 34%,and Increase Pressure by 72%. The term defuzzification refers to the process of translating the membership degrees of fuzzy sets into a concrete choice or actual value. The center of gravity method is a well-known and effective method for defuzzification. 
 To begin, the outcomes of the rules have to be combined in some fashion by addition. The graph of a triangle is the one that appears most frequently in fuzzy set membership functions. 
 
-#Fuzzy Rules
+# Fuzzy Rules
 
 A fuzzy rule is a statement of the form 'If X is A, then Y is B',where X and Y are variables, and A and B are fuzzy sets."),
 
